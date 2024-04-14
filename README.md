@@ -1,2 +1,2 @@
 # strapi_backend
-api fromstrapi
+api from strapi
